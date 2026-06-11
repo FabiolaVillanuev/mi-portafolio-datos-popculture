@@ -1,3 +1,11 @@
 p {
     text-align: justify;
 }
+
+.imagen-centro {
+    display: block;
+    margin: 20px auto;
+    width: 70%;
+    max-width: 900px;
+    height: auto;
+}
